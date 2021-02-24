@@ -1,0 +1,16 @@
+.input_clear_input{
+    text-align: end;
+}
+.input_clear_input_container{
+    width: 82.2%;
+    height: 4em;
+  }
+.input_clear_container{
+    width: 79.5%;
+    margin: -1%
+  }
+
+.input_clear_button{
+    width: 259%;
+    height: 4em;
+  }
