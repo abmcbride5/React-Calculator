@@ -2,10 +2,6 @@ import React, { useState } from 'react';
 import Button from "./button";
 import './table.css';
 
-const Hello = (Event) => {
-    console.log("hello", Event);
-}
-
 const Table = (props) => {
     return(
         <table className="tableContainer">

@@ -6,7 +6,7 @@ export default function findValue(operationArray){
     const operationHash = {
         '+': add,
         '-': subtract,
-        '/': divide,
+        '÷': divide,
         'x': multiply
     };
     
